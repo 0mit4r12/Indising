@@ -40,20 +40,20 @@ main#portada h1{
 }
 
 header{
-    background-color: rgb(97, 13, 76);
+    background-color: rgb(43, 4, 43);
     grid-column: 1/3;
     grid-row: 1/2;
     justify-content: center;
     text-align: center;
     font-size: 28px;
-    color: rgb(0, 0, 0);
+    color: rgb(246, 247, 218);
     font-family: "ivypresto-headline", serif;
     font-weight: 400;
     font-style: normal;
 }
 
 nav{
-    background-color: rgb(174, 28, 137);
+    background-color: rgb(48, 7, 37);
     grid-column: 1/3;
     grid-row: 2/3;
     display: flex;
@@ -73,7 +73,7 @@ nav a{
     width: 100%;
     display: flex;
     grid-column: 1/3;
-    background-color: rgb(104, 16, 98);
+    background-color: rgb(35, 7, 47);
     color: beige;
 }
 
